@@ -3,3 +3,5 @@
 Jauns testa repo!
 
 Turpinām!
+
+Cīnāmies!!!
