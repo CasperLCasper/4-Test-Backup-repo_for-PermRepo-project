@@ -5,3 +5,5 @@ Jauns testa repo!
 Turpinām!
 
 Cīnāmies!!!
+
+Ejam tālāk!
