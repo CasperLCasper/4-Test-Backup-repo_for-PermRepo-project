@@ -7,3 +7,5 @@ Turpinām!
 Cīnāmies!!!
 
 Ejam tālāk!
+
+Turpinām!
