@@ -9,3 +9,6 @@ Cīnāmies!!!
 Ejam tālāk!
 
 Turpinām!
+
+Turpinām!
+
