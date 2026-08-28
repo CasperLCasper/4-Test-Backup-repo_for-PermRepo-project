@@ -16,3 +16,5 @@ Upstash Redis!
 
 Turpinām!
 
+Netiek atspoģuļots faila izmērs!
+
