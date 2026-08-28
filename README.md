@@ -12,3 +12,5 @@ Turpinām!
 
 Turpinām!
 
+Upstash Redis!
+
