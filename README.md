@@ -18,3 +18,7 @@ Turpinām!
 
 Netiek atspoģuļots faila izmērs!
 
+Netiek atspoģuļots faila izmērs - turpinām!
+
+
+
