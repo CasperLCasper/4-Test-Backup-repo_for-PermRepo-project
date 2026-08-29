@@ -26,5 +26,7 @@ Netiek atspoģuļots faila izmērs - turpinām!
 
 Cīnāmies!
 
+Turpinām arvMozila Observatory!
+
 
 
