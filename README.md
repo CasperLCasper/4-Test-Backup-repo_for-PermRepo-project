@@ -18,6 +18,8 @@ Turpinām!
 
 Netiek atspoģuļots faila izmērs!
 
+Turpinām!!!
+
 Netiek atspoģuļots faila izmērs - turpinām!
 
 Cīnāmies!
