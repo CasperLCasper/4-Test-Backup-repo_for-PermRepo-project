@@ -18,6 +18,8 @@ Turpinām!
 
 Netiek atspoģuļots faila izmērs!
 
+Strādājam ar Mozila Observatory!
+
 Turpinām!!!
 
 Netiek atspoģuļots faila izmērs - turpinām!
