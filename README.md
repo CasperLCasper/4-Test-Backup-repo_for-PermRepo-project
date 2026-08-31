@@ -28,5 +28,7 @@ Cīnāmies!
 
 Turpinām arvMozila Observatory!
 
+Turpinām!
+
 
 
