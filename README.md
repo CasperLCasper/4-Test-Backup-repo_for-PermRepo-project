@@ -26,6 +26,8 @@ Netiek atspoģuļots faila izmērs - turpinām!
 
 Cīnāmies!
 
+Turpinām ar Sonarcloud!
+
 Turpinām arvMozila Observatory!
 
 Turpinām!
