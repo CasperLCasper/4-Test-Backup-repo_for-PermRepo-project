@@ -40,6 +40,8 @@ https://app.deepsource.com
 
 Turpinām!
 
+ChatGPT rekomendācijas!
+
 https://app.deepsource.com
 
 Turpinām!!!
