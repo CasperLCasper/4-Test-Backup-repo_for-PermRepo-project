@@ -48,5 +48,7 @@ Turpinām!!!
 
 Turpinām ar ChatGPT rekomendācijām!
 
+Turpinām!
+
 
 
