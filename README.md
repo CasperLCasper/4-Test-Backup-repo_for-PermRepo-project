@@ -38,6 +38,8 @@ Turpinām!
 
 https://app.deepsource.com
 
+Turpinām!
+
 https://app.deepsource.com
 
 Turpinām!!!
