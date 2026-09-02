@@ -54,5 +54,7 @@ Turpinām!
 
 Turpinām!
 
+Cīnāmies!!!
+
 
 
