@@ -62,5 +62,7 @@ Turpinām!
 
 Cīnāmies!
 
+Turpinām ar vizuālo!
+
 
 
