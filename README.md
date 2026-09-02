@@ -48,6 +48,8 @@ Turpinām!!!
 
 Turpinām ar ChatGPT rekomendācijām!
 
+Turpinām pēc audita!
+
 Turpinām!
 
 Turpinām!
