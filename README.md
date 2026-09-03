@@ -74,5 +74,7 @@ Turpinām ar vizuālo!
 
 Turpinām ar vizuālo!
 
+Turpinām!
+
 
 
