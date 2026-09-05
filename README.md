@@ -80,6 +80,8 @@ Turpinām!
 
 Turpinām ar vizuālo!
 
+No jauna izvērsu Treasury līgumu!
+
 Turpinām!
 
 Turpinām ar vizuālo!
