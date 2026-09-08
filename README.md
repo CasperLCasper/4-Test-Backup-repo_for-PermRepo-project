@@ -94,5 +94,7 @@ Turpinām ar vizuālo!
 
 Cīnāmies!!!
 
+Cīnāmies!!!
+
 
 
