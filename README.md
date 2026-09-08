@@ -84,6 +84,8 @@ No jauna izvērsu Treasury līgumu!
 
 Turpinām!
 
+Turpinām!
+
 Turpinām ar vizuālo!
 
 Vite+React! Tagad bez privātās atslēgas serverī!
