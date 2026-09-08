@@ -94,6 +94,7 @@ Turpinām ar vizuālo!
 
 Cīnāmies!!!
 
+Izskatās cerīgi!
 Cīnāmies!!!
 
 Cīnāmies!!!
