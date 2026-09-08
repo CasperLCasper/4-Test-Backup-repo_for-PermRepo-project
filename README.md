@@ -92,5 +92,7 @@ Vite+React! Tagad bez privātās atslēgas serverī!
 
 Turpinām ar vizuālo!
 
+Cīnāmies!!!
+
 
 
