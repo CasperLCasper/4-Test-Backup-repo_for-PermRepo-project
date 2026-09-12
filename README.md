@@ -100,6 +100,8 @@ Cīnāmies!!!
 
 Cīnāmies!!!
 
+Turpinām!
+
 Bezcerīgi nav, bet vēl jācīnās!
 
 Cīnāmies!
