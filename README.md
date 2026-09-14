@@ -106,5 +106,7 @@ Bezcerīgi nav, bet vēl jācīnās!
 
 Cīnāmies!
 
+Cīnāmies!
+
 
 
