@@ -108,5 +108,7 @@ Cīnāmies!
 
 Cīnāmies!
 
+Jau daudz, kas ir izcīnīts!
+
 
 
