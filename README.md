@@ -112,5 +112,7 @@ Jau daudz, kas ir izcīnīts!
 
 Testējam!
 
+Turpinām ar testiem!
+
 
 
