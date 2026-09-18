@@ -110,5 +110,7 @@ Cīnāmies!
 
 Jau daudz, kas ir izcīnīts!
 
+Testējam!
+
 
 
