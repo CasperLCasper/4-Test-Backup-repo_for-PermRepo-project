@@ -114,5 +114,7 @@ Testējam!
 
 Turpinām ar testiem!
 
+Izskatās cerīgi!
+
 
 
