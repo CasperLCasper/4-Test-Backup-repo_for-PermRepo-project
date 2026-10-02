@@ -112,6 +112,8 @@ Jau daudz, kas ir izcīnīts!
 
 Testējam!
 
+Izskatās, ka tuvojamies nobeigumam!
+
 Turpinām ar testiem!
 
 Izskatās cerīgi!
