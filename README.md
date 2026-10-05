@@ -118,5 +118,7 @@ Turpinām ar testiem!
 
 Izskatās cerīgi!
 
+Tika ieviesti nopietni uzlabojumi!
+
 
 
