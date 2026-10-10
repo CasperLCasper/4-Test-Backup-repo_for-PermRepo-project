@@ -120,5 +120,7 @@ Izskatās cerīgi!
 
 Tika ieviesti nopietni uzlabojumi!
 
+Tika ieviesti nopietni uzlabojumi!
+
 
 
